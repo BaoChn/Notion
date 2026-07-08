@@ -23,5 +23,10 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    { "source": "/404", "destination": "https://baow.cn/", "permanent": false },
+    { "source": "/tv", "destination": "https://bao.ink/#category-16", "permanent": false },
+    { "source": "/adobe", "destination": "https://baow.cn/adobe", "permanent": false }
   ]
 }
